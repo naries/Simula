@@ -10,25 +10,25 @@ So, a team A with attack of 83, defence of 82 and midfield of 90 will have a dom
 Add and subtract biases, you get 8480
 
 The Teams then and dominance are:
-  Arsenal, ***7933***
-  Manchester United, ***8175***
-  Chelsea, ***8166***
-  Aston Villa, ***7966***
-  Leicester, ***8033***
-  Fulham, ***7433***
-  West Bromwich Albion, ***7300*** 
-  Liverpool, ***8533***
-  Leeds United, ***7533***
-  Wolverhampton Wanderers, ***7900***
-  Sheffield United, ***7366***,
-  Tottenham, ***8433***
-  Everton, ***7966***
-  Brighton and Hove Albion, ***7566***,
-  Newcastle United, ***7633***
-  Crystal Palace, ***7533***
-  Burnley, ***7600***
-  Manchester City, ***8500***
-  Southampton, ***7700***
+  - Arsenal, ***7933***
+  - Manchester United, ***8175***
+  - Chelsea, ***8166***
+  - Aston Villa, ***7966***
+  - Leicester, ***8033***
+  - Fulham, ***7433***
+  - West Bromwich Albion, ***7300*** 
+  - Liverpool, ***8533***
+  - Leeds United, ***7533***
+  - Wolverhampton Wanderers, ***7900***
+  - Sheffield United, ***7366***,
+  - Tottenham, ***8433***
+  - Everton, ***7966***
+  - Brighton and Hove Albion, ***7566***,
+  - Newcastle United, ***7633***
+  - Crystal Palace, ***7533***
+  - Burnley, ***7600***
+  - Manchester City, ***8500***
+  - Southampton, ***7700***
 Teams are editable in **/lib/teams.js**
 
 The more dominant a team is, the more the spell of possesion they have
